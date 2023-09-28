@@ -1,0 +1,80 @@
+.premier{
+    background-color: rgb(26, 26, 61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.scrolled {
+    position: fixed;
+    width: 100%;
+    background:rgb(26, 26, 61);;
+    
+ 
+}
+.tri{
+
+    font-size: 4em;
+    word-spacing: 5px;
+}
+.bout{
+    border-radius: 12px;
+    padding: 5px;
+    width: 100px;
+}
+#deux{
+    position: relative;
+    top: -100px;
+}
+#trois{
+    background-color: rgb(26, 26, 61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto; 
+}
+.ri{
+    word-spacing: 10px;
+    font-size: 3em;
+}
+#cinq{
+    background-color: rgb(26, 26, 61);
+    height: auto;
+}
+.cont{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    width: 200px;
+}
+.img img{
+    width: 100%;
+}
+.un{
+    background-color:rgb(26, 26, 61); 
+
+    border-radius: 10px;
+}
+.fo{
+    width: 400px;
+    border-radius: 40px;
+    margin: 15px;
+    padding: 15px;
+}
+.for{
+    width: 200px;
+    border-radius: 40px;
+    margin: 12px;
+    padding: 15px;
+    
+}
+a{
+    text-decoration: none;
+}
+.free{
+    width: 90px;
+    border-radius: 40px;  
+}
+
